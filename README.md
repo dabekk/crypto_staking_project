@@ -16,4 +16,6 @@ This project creates 2 cyrptocurrency tokens - mDai token (to mock DAI tokens) a
 - MetaMask
 - React.js
 
+Use 'npm run build' to start local server
+
 Project based on YouTube tutorial: https://www.youtube.com/watch?v=CgXQC4dbGUE. Initial project structure preloaded.
